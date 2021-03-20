@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root {
+    --main-color: #340767;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.custrom-btn {
+    border: none !important;
+    background-color: var(--main-color) !important;
+    color: #ffffff !important;
+    border-radius: 5px !important;
+}
