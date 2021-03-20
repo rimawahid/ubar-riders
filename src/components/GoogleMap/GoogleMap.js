@@ -6,7 +6,7 @@ import {
     Marker,
 } from 'react-google-maps';
 
-const APIKey = 'AIzaSyDUNefKBuDxG4csF-0HgdnR8t-XLvZWTdU';
+const APIKey = 'AIzaSyCRW2S7Ou5r4DutIa-uI56tBDPOEzmWtx4';
 
 const MyMapComponent = withScriptjs(
     withGoogleMap((props) => (

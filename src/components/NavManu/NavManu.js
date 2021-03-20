@@ -13,7 +13,7 @@ const NavManu = () => {
         <>
             <Navbar className="Nav-Manu fixed-top" expand="lg">
                 <Container>
-                    <Link to="/" className="navbar-brand">
+                    <Link to="/" className="navbar-brand logo">
                         Ubar Riders
                     </Link>
                     <Navbar.Toggle aria-controls="navbar-nav" />
